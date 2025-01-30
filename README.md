@@ -1,6 +1,6 @@
 -Hoping to use this space to display projects I have worked on.
 
--Piss
+-Econometrics and python
 
 <!---
 Really-Toasty/Really-Toasty is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
